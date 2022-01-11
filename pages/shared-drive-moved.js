@@ -25,7 +25,7 @@ export default function Home() {
         </code>
         <div>
           <Image
-            src={`/images/x drive.png`}
+            src={`/images/example.png`}
             height={760}
             width={1605}
             alt="example"
