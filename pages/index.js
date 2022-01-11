@@ -16,7 +16,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Your shared drive is now in a new location and will be much faster,
-          updated should be nearly instant now.
+          changes and updates should be nearly instant now.
         </p>
         <code className={styles.code}>
           Documents
